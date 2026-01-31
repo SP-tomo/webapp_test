@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// ToDoを追加
+// ToDoを追加ｇ
 function addTodo() {
     const input = document.getElementById('todoInput');
     const text = input.value.trim();
